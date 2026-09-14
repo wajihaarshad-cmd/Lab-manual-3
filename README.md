@@ -8,7 +8,4 @@
 -Computer Science
 -Electrical Engineering
 -Business Admin
-*Item 1
-*item 2
-+Item A
-+Item B
+
